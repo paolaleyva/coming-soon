@@ -5,10 +5,15 @@ body {
 }
 
 ul {
-    display: inline;
+    
     list-style-type: none;
     margin: 0;
     padding: 8px;
+    
+  }
+
+  li {
+    display: inline;
     background-color: #351F39;
     color: white;
   }
