@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    background-color: #719FB0;
+    background-color: white;
 }
 
 ul {
@@ -18,7 +18,7 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: black;
     background-color: #351F39;
     text-align: center;
     padding: 14px 16px;
